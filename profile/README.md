@@ -1,4 +1,4 @@
-<img src="https://github.com/quobly-sw/.github/blob/main/quobly%20logo.jpg" width=200>
+<img src="https://github.com/quobly-sw/.github/blob/main/Quobly-longeur.png" width=200>
 
 ##About Quobly
 
